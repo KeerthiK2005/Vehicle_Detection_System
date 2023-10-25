@@ -1,7 +1,7 @@
 # Vehicle_Detection_System
  Vehicle Detection System in Python using OpenCV. Detects and counts vehicles in a video stream, with background subtraction and contour analysis. Technologies: Python, OpenCV, NumPy.
 
- Vehicle_detection_system project output:
+ Vehicle_detection_system project output(here is how it turned out):
 
  https://github.com/KeerthiK2005/Vehicle_Detection_System/assets/128359412/07b8ce42-6e40-446b-a9b4-6793c2f5d1cd
 
